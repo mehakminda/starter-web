@@ -5,6 +5,3 @@ lol
 lol2
 
 
-master
-
-mehak_branch
